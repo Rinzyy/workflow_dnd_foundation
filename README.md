@@ -31,10 +31,6 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone [your-repository-url]
-cd workflow_dnd
-```
 
 2. Install dependencies:
 ```bash
